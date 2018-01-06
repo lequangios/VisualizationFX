@@ -1,0 +1,15 @@
+//
+//  YFXAppDelegate.h
+//  VisualizationFX
+//
+//  Created by Le Viet Quang on 01/06/2018.
+//  Copyright (c) 2018 Le Viet Quang. All rights reserved.
+//
+
+@import UIKit;
+
+@interface YFXAppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end

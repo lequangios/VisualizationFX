@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'VisualizationFX_Example' do
+  pod 'VisualizationFX', :path => '../'
+
+  target 'VisualizationFX_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

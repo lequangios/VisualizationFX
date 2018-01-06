@@ -1,0 +1,6 @@
+framework module VisualizationFX {
+  umbrella header "VisualizationFX-umbrella.h"
+
+  export *
+  module * { export * }
+}

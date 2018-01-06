@@ -1,0 +1,6 @@
+framework module Pods_VisualizationFX_Example {
+  umbrella header "Pods-VisualizationFX_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

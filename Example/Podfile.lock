@@ -1,0 +1,16 @@
+PODS:
+  - VisualizationFX (0.1.0)
+
+DEPENDENCIES:
+  - VisualizationFX (from `../`)
+
+EXTERNAL SOURCES:
+  VisualizationFX:
+    :path: ../
+
+SPEC CHECKSUMS:
+  VisualizationFX: cb386ce5dd5237b979e89954cceb6e069c90da25
+
+PODFILE CHECKSUM: 0058b32235ea514125ab0f80f2ff3deec3c2dc5d
+
+COCOAPODS: 1.3.1
